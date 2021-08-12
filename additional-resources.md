@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Smartphone Photography Resources
-
+coming soon!
 
 ## Acknowledgements
 
