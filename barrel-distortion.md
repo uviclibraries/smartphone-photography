@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bonus Take Home Activity: Fixing Barrel Distortion
-nav_order:8
+nav_order: 8
 parent: Workshop Activities
 ---
 # Bonus Take Home Activity: Fixing Barrel Distortion 
