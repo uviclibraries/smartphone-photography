@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonus: Fixing Barrel Distortion
+title: Bonus Activity Fixing Barrel Distortion
 nav_order: 8
 parent: Workshop Activities
 ---
