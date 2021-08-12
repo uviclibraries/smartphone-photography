@@ -7,4 +7,6 @@ parent: Workshop Activities
 # Take Control of your Camera Settings
 
 
+[NEXT STEP: Move Around](move-around.html){: .btn .btn-blue }
+
 
