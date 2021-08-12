@@ -10,3 +10,5 @@ parent: Workshop Activities
 [Bonus Take Home Activity 1: Fixing Barrel Distortion](barrel-distortion.html){: .btn .btn-blue }
 [Bonus Take Home Activity 2: Mini Home Studio](home-studio.html){: .btn .btn-blue }
 [Bonus Take Home Activity 3: App list. More videos and Key terms](more.html){: .btn .btn-blue }
+or 
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
