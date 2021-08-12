@@ -1,0 +1,10 @@
+---
+layout: default
+title: Bonus Take Home activity: Fixing Barrel Distortion 
+nav_order: 3
+parent: Workshop Activities
+---
+# Bonus Take Home activity: Fixing Barrel Distortion 
+
+[Bonus Take Home Activity 2: Mini Home Studio](home-studio.html){: .btn .btn-blue }
+[Bonus Take Home Activity 3: App list. More videos and Key terms](more.html){: .btn .btn-blue }
