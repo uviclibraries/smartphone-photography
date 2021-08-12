@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonus Take Home activity: Mini Home Studio
+title: Bonus: Mini Home Studio
 nav_order: 9
 parent: Workshop Activities
 ---
