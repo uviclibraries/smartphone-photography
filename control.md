@@ -31,14 +31,14 @@ One of the best ways to learn photography is to get yourself out of Auto mode. S
 
 **Flash:**
   1. Open your default Camera app
-  2. Tap the flash (lightning bolt) icon at the top and tap Off
-**OR**
+  2. Tap the flash (lightning bolt) icon at the top and tap Off <br>
+**OR**<br>
   3. Tap the Control icon (circle with a small lightning bolt at the bottom right) and then tap the lightning bolt. 
   4. Tap the lightning bolt icon that has a line through it (Off)
 
 **HDR:**
-  - Tour default Camera app, if there is HDR at the top, see if it is crossed out. If yes, it is already off. If there is no line through the letters, tapping once should disable it and cross it out. 
-	**OR**
+  - Tour default Camera app, if there is HDR at the top, see if it is crossed out. If yes, it is already off. If there is no line through the letters, tapping once should disable it and cross it out.<br>
+	**OR**<br>
   - Tap the Control icon to get into Camera settings. If HDR is crossed out, it is already off. If there is no line through the letters, tapping once should disable it and cross it out. 
 
 [NEXT STEP: Move Around](move-around.html){: .btn .btn-blue }
