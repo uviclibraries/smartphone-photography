@@ -3,8 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
-
 # Introduction to Smartphone Photography
 
 - Pre-workshop activities: 25 min 
