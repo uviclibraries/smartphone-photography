@@ -19,8 +19,8 @@ One of the best ways to learn photography is to get yourself out of Auto mode. S
   2. Tap the flash (lightning bolt) icon in the top left corner and tap Off. 
 
 **HDR:**
-<img src="images//photo-control-01.png" style="float:right" alt=HDR settings> 
   1. In your default Camera app, tap HDR at the top
+  <img src="images//photo-control-01.png" style="float:right" alt=HDR settings> 
   2. Tap Off (Note: if you don’t see “HDR” at the top of the camera app, you need to go to your home screen and then **Settings -> Camera -> Auto HDR** and then turn it off).
   3. If HDR is not at the top, go into your main photo settings, go down to Camera and scroll to the bottom to turn off auto HDR, and then go back to the Camera app and complete step 1 and 2.
 
