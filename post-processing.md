@@ -40,7 +40,7 @@ When properly exposed, you may find that your photos do not need any editing or 
 **Borders & HSL:** The other two tools require a paid membership to access: the Borders tool allows you to add borders to your images. The HSL tool allows further colour editing in the Hue, Saturation, and Lightness tools. 
 
 ## Presets:
-<img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets">
+<img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets settings">
 1. In VSCOcam, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.
 2. To access these, instead of going into the adjustment tools, you would go through the **Presets menu**, on the bottom left of the screen, which looks like a polaroid photo.
 3. Each preset has a name with a letter and number. When you tap on one to select it, there is a slider that appears. **Double-tap** to bring up a full **slider** and **drag** to select the strength of the preset. **Tap** the **checkmark** to accept the changes, or the **X** to **cancel**. You can go into the adjustment tools to make additional changes before exporting. 
