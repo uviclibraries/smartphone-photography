@@ -13,7 +13,7 @@ When properly exposed, you may find that your photos do not need any editing or 
 <img src="images//photo-post-02.jpeg" style="float:right;width:263px;height:69px" alt=settings toolbar>
 2. **Tap** on the plus (**+**) button to add your new image to VSCOcam. 
 3. **Tap** to **select the image** and then **tap Import** at the bottom of the screen. The app should say “Import successful” and then should be back in Studio mode with the new image shown. 
-<img src="images//photo-post-03.jpeg" style="float right" alt="settings toolbar">
+<img src="images//photo-post-03.jpeg" style="float:right;width:250px;height:180px" alt="settings toolbar."> 
 4. **Double-tap** on the **image** of the books you just took to bring up the image for editing and then **tap** on the **little sliders icon** on the bottom left. This will bring us into a darker screen. 
 <img src="images//photo-post-04.jpeg" style="float:right;width:252px;height:109px" alt=studio mode toolbar>
 5. **Tap** on the **sliders (edit) icon** again. In the Adjustments menu, there are many options for fine-tuning your image. The options can get overwhelming. In general, the post-processing changes you want to familiarize yourself with the most are **Exposure, Contrast, Adjust** (See Activity #5 for more details on this tool), and **White Balance**. 
@@ -31,7 +31,7 @@ When properly exposed, you may find that your photos do not need any editing or 
 **Saturation:** Use this to increase or decrease the level of colour saturation in an image. Turned all the way down will result in a greyscale image and turned all the way up will generally result in an oversaturated, unnatural image. This is a handy tool when the sensor has guessed incorrectly on colours and has either muted them or has overblown them. Use this to bring the colours back to a more natural state. 
 **Tone:** VSCOcam has wrapped up two adjustment  tools into one called Tone: Highlights and Shadows. Highlights will adjust the levels of your image highlights and Shadows will adjust the levels of your image shadows.
 **White Balance**: Both light temperature and tint are included in this tool. Use Temperature to shift between warm (yellow/orange) and cool (blue), and use Tint to shift between green and magenta tones. This is helpful for correcting light temperatures that are incorrect. For example: tungsten light casting an orange tone onto the plate and cupcake in the photo to the right could be corrected using the Temperature slider. Or sunlight filtering through and bouncing off the green leaves of a tree can create a green cast across the skin of someone’s face would probably be aided using the Tint slider.
-<img src="images//photo-post-06.jpeg" style="width:168px;height:182px" alt=image of white exposure"><img src="images//photo-post-07.jpeg" style=width:168px;height:182px" alt=image of white exposure adjusted">
+<img src="images//photo-post-06.jpeg" style="width:168px;height:182px" alt="image of white exposure."> <img src="images//photo-post-07.jpeg" style="width:168px;height:182px" alt="image of white exposure adjusted.">
 **Skin Tone:** This tool is reported to even out or enhance skin tone in portraits, shifting them between a pinker or a golden tone. 
 **Vignette:** This tool darkens the corners of the image. 
 **Grain:** This creates an effect of analog film grain. 
@@ -40,7 +40,7 @@ When properly exposed, you may find that your photos do not need any editing or 
 **Borders & HSL:** The other two tools require a paid membership to access: the Borders tool allows you to add borders to your images. The HSL tool allows further colour editing in the Hue, Saturation, and Lightness tools. 
 
 ## Presets:
-<img src="images//photo-post-08.png" style="width:313px;height:156px" alt=presets">
+<img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets">
 1. In VSCOcam, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.
 2. To access these, instead of going into the adjustment tools, you would go through the **Presets menu**, on the bottom left of the screen, which looks like a polaroid photo.
 3. Each preset has a name with a letter and number. When you tap on one to select it, there is a slider that appears. **Double-tap** to bring up a full **slider** and **drag** to select the strength of the preset. **Tap** the **checkmark** to accept the changes, or the **X** to **cancel**. You can go into the adjustment tools to make additional changes before exporting. 
