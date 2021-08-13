@@ -12,7 +12,7 @@ We tend to get stuck in one or two angles when it comes to taking photos. This e
 
 **Same object, different background:** Try taking photos of the same object with a few different backgrounds and compare them. How do the backgrounds change the feel of the photo? Can you take a single object and create an emotion from the photo by changing the way it is shot? Example: a photo of a small, colourful toy around other playful things can evoke playfulness, but the same toy taken against a big empty plain white wall can create a sense of loneliness or quiet.
 
-<img src="images//photo-move-03.jpeg" style="float:right;width:340px;height:300px;" alt=photo examples> 
+<img src="images//photo-move-03.jpeg" style="float:right;width:309px;height:231px;" alt=photo examples> 
 **Change the lighting:** If you have some direct sun coming into your space, this will allow you to experiment with direct and indirect lighting. Pick an object and practice taking photos at various angles in and out of the sun. See if you can play with shadows and back-lighting to get different effects. For example: This 3D-printed Wikipedia globe was taken on a table in the shadow below a window, but a ray from the sun was coming through and hit at the perfect angle to cause it to glow inside. 
 
 [NEXT STEP: Post-Processing](post-processing.html){: .btn .btn-blue }
