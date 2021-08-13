@@ -13,7 +13,7 @@ When properly exposed, you may find that your photos do not need any editing or 
 <img src="images//photo-post-02.jpeg" style="float:right;width:263px;height:69px" alt=settings toolbar>
 2. **Tap** on the plus (**+**) button to add your new image to VSCOcam. 
 3. **Tap** to **select the image** and then **tap Import** at the bottom of the screen. The app should say “Import successful” and then should be back in Studio mode with the new image shown. 
-<img src="images//photo-post-03.jpeg" style="float:right;width:252px;height:40px" alt=settings toolbar>
+<img src="images//photo-post-03.jpeg" style="float right" alt="settings toolbar">
 4. **Double-tap** on the **image** of the books you just took to bring up the image for editing and then **tap** on the **little sliders icon** on the bottom left. This will bring us into a darker screen. 
 <img src="images//photo-post-04.jpeg" style="float:right;width:252px;height:109px" alt=studio mode toolbar>
 5. **Tap** on the **sliders (edit) icon** again. In the Adjustments menu, there are many options for fine-tuning your image. The options can get overwhelming. In general, the post-processing changes you want to familiarize yourself with the most are **Exposure, Contrast, Adjust** (See Activity #5 for more details on this tool), and **White Balance**. 
