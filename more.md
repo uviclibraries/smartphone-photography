@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonus Take Home Tips
+title: 9-Bonus Take Home Tips
 nav_order: 10
 parent: Workshop Activities
 ---
