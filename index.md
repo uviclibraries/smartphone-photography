@@ -11,7 +11,7 @@ nav_order: 1
 
 ## Why Smartphone Photography? 
 
-Smartphone photography focuses on using your mobile device to take beautiful pictures. It proves that you do not need the newest gear to take amazing photos and that there are many features to be aware of while using your smartphone camera. Throughout these activities, you will become more familiar with your device and become a better photographer as you learn about critical elements (such as lighting, your key message and finishing touches)
+Smartphone photography focuses on using your mobile device to take beautiful pictures. Just because you don't have a big fancy camera, or the newest smartphone, you can still take amazing photos with whichever smartphone camera you currently own. Throughout the following activities, you will become more familiar with your smartphone camera app and become a better photographer as you learn about critical elements such as lighting, the story you are trying to tell and photo editing on your smartphone.
 
 ## Learning objectives
 Participants by the end of this workshop will be able to perform at a basic level:
