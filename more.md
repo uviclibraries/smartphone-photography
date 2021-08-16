@@ -34,6 +34,7 @@ Smartphone Photography Take Info Home Sheet
 - [How to capture motion and sports photography with your iPhone](https://www.creativelive.com/class/how-to-capture-motion-with-your-iphone-7-or-7-plus-red-bull-photographer-michael-clark)
 
 ## Key Terms:
+<img src="images//photo-more-01.jpeg" style="float:right;width:400px;height:800px" alt=Reference guide manual photography>
 - **Barrel distortion:** When a lens is curved and distorts the image.<br>
 - **Blown out:** When there is an area of a photograph (usually in a highlight) where there is so much light recorded that there is no detail, just blank white. This cannot be fixed with post-processing.<br> 
 - **Colour Temperature:** The visible colour of various types of lighting (e.g., shade light tends to be blue or purple in tone, tungsten light bulbs give off an orange colour, fluorescent lights can make things look green, etc).<br>
