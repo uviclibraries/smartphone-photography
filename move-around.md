@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Move Around and Switch It Up
+title: 3-Move Around
 nav_order: 4
 parent: Workshop Activities
 ---
