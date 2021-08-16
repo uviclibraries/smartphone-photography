@@ -5,12 +5,12 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # White Balance
-<img src="images//photo-white-01.jpeg" style="float:right;width:240px;height:220px" alt=picture of a plate white balance>
+<img src="images//photo-white-01.jpeg" style="float:right;width:230px;height:220px" alt=picture of a plate white balance>
 In general, it’s more convenient (and sometimes higher quality, depending) to quickly snap a photo with your default Camera and then post-process the photo in an editing app later on at your leisure. But when light temperature is particularly tricky, sometimes the best option is to take the time to snap the photo right in the app that gives you the most control and get the white balance right when you take the photo, and then post-process after to tweak things to perfection.  
 
 ### For the activity:
 **Part 1:** <img src="images//photo-white-02.jpeg" style="float:right;width:180px;height:180px" alt=white plate example><img src="images//photo-white-03.jpeg" style="float:right;width:180px;height:180px" alt=white plate example> Find something that is white (e.g., a plate, piece of paper, etc). Take the photo of the white object in various lighting conditions (natural indirect light from a window, overhead light, lamp light, outside in the shade) and take a photo of it using the default camera on your phone. Note how the color of the white object shifts from actual white in the photo to take on the color temperature of the light it is in. Using the VSCOcam app, post-process the photo using White Balance and any other settings you find you need to finish the photo. Try to keep the scene looking natural while making your edits.
-<img src="images//photo-white-03.jpeg" style="float:right;width:240px;height:220px" alt=white plate example><br>
+<img src="images//photo-white-03.jpeg" style="float:right;width:230px;height:220px" alt=white plate example><br>
 
 **Part 2:**  Set the white object again in various lighting conditions and take a photo of it using the below instructions for Apple or Android phones, adjusting the white balance live before taking the photo. Try to get the white object as close to white as possible while still keeping the scene looking natural. Pay attention to the surroundings -- do they look too cold/warm? Once the photo is taken, use the VSCOcam app to make final post-processing adjustments to get an evenly processed photo. Do you find that it is easier to get a photo close to the correct color of the object by adjusting the white balance live while taking the photo, or adjusting it after?
 
