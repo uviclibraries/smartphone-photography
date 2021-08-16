@@ -8,7 +8,7 @@ parent: Workshop Activities
 Selfies are fun, but you can use what you’ve learned about lighting and the limitations of your smartphone camera to take higher quality photos and even more dynamic images that go beyond a simple snapshot for fun.
 
 ### For the activity:
-<img src="images//photo-self-01.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><img src="images//photo-self-02.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><br>
+<img src="images//photo-self-01.jpeg" style="width:180px;height:240px" alt=selfie example><img src="images//photo-self-02.jpeg" style="width:180px;height:240px" alt=selfie example><br>
 <img src="images//photo-self-03.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><img src="images//photo-self-04.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><br>
 <img src="images//photo-self-05.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><img src="images//photo-self-06.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><br>
 <img src="images//photo-self-07.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><img src="images//photo-self-08.jpeg" style="float:right;width:180px;height:240px" alt=selfie example><br>
