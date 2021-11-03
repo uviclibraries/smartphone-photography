@@ -6,6 +6,7 @@ parent: Workshop Activities
 ---
 # White Balance
 <img src="images//photo-white-01.jpeg" style="float:right;width:130px;" alt=picture of a plate white balance>
+<img src="images//photo-white-03.jpeg" style="float:right;width:130px;" alt=white plate example><br>
 In general, it’s more convenient to quickly snap a photo with your default Camera and then post-process the photo in an editing app later on at your leisure. But when light temperature is particularly tricky, sometimes the best option is to take the time to snap the photo right in the app that gives you the most control and get the white balance right when you take the photo, and then post-process after to tweak things to perfection.  
 
 ### For the activity:
