@@ -17,7 +17,7 @@ In general, it’s more convenient to quickly snap a photo with your default Cam
 
 ## Apple phones:
 In the Lightroom app:
-<img src="images//cam.jpeg" style="float:right;width:30px;" alt=camera icon screenshot>
+<img src="images//cam.jpg" style="float:right;width:50px;" alt=camera icon screenshot>
 1. Tap on the camera icon in the bottom right corner to go into Camera mode. This may pop up a permissions box asking if you want to give the app access to your location to tag the data within the photo. This option is up to you. <br>
 2.To the left of the shutter release button, tap on the drop down menu. This should have options for Automatic, Professional, and High Dynamic Range. Select Professional. <br>
 3.Just above the shutter release button is a WB (for White Balance) tap on this to bring up the options: AWB stands for Auto White Balance, the Light Bulb is for Tungsten or Incandescent lighting situations, the thin bar is for Fluorescent lighting situations, the Sun is for direct sunlight or “daylight”, the Cloud icon for cloudy or shade lighting, and the Eyedropper is for setting custom white balance. For instance, on a cloudy day, the colour cast of the light will be cool in tone. So, the white balance setting for Cloudy warms up the tone of the photo to correct this. <br>
