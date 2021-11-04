@@ -16,13 +16,13 @@ This is a handy little setup you can use for taking photos of isolated objects. 
 5. Open up the Camera app and tap on the screen where you want the point of focus to be. Make sure the camera is not casting a shadow on the background or on the subject.
 6. With a white backdrop, the sensor may think you are in a bright space and may have the exposure too low. With a dark backdrop, the sensor may think you are in a dark space and may have the exposure too high. Adjust the exposure up or down as needed. 
 7. Take a couple of photos of your object.
-8. Use Activity #6 to put the finishing touches on the image. You may need to adjust White Balance, etc.
+8. Use the Post-Processing Activity to put the finishing touches on the image. You may need to adjust White Balance, etc.
 
 ### Notes: 
 <img src="images//photo-studio-05.jpeg" style="float:right;width:200px;height:260px" alt=home studio setup black background><img src="images//photo-studio-06.jpeg" style="float:right;width:200px;height:260px" alt=home studio setup black background>
 - Do not use the flash on your phone to light these sorts of photos. The flash will cast harsh, unflattering shadows.
 - Be cautious about mixed lighting sources. Bright, indirect daylight is the easiest to work with for smartphone photos. Try not to cast shadows from you or your phone onto the object or backdrop.
-- It is helpful to use a tripod for this if you have access to one, but it is not necessary if you don’t. 
+- It is helpful to use a tripod for this if you have access to one, but it is not necessary if you don’t. (The UVic library has smartphone tripods to borrow if you need one.)
 - The example to the right is using a black dress hung up with magnets and an overturned sheet pan on a stove top by a kitchen window for the photo, so the set up does not need to be fancy. No bounce card was needed as there was adequate indirect light coming in from the window. 
 
 [Bonus Take Home Activity 3: App list. More videos and Key terms](more.html){: .btn .btn-blue }
