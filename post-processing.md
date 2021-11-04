@@ -27,7 +27,8 @@ When properly exposed, you may find that some of your photos do not need any edi
 4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll** or **Gallery is active** and then **tap Save**.
 
 ## Adjustments Explained: 
-Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials] (https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials)
+Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials](https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials)
+
 **Exposure:** This tool will allow you to increase or decrease the exposure of an image after it has been taken.<br>
 **Contrast:** This tool increases or decreases the amount of contrast there is between the light areas and dark areas of an image. High contrast images can look bold, but also if pushed too far can result in a lack of nuance, and details that should be soft may end up looking harsh and rough. On the flip side, a lack of contrast can result in flat images.<br> 
 **Adjust:** In VSCOam, this tool contains three tools: Crop, Straighten, and Skew. This is where you would straighten crooked horizons, crop images, and fix images that have been skewed by barrel distortion. See Activity #5.<br>
