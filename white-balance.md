@@ -11,9 +11,7 @@ In general, it’s more convenient to quickly snap a photo with your default Cam
 
 ### For the activity:
 <img src="images//photo-white-02.jpeg" style="float:right;width:130px;" alt=white plate example>
-**Part 1:** Find something that is white (e.g., a plate, piece of paper, etc). Take the photo of the white object in various lighting conditions (natural indirect light from a window, overhead light, lamp light, outside in the shade) and take a photo of it using the default camera on your phone. Note how the color of the white object shifts from actual white in the photo to take on the color temperature of the light it is in. Using either the Lightroom app or the VSCO app, post-process the photo using White Balance, any other settings you find you need, or a preset/filter to finish the photo. Try to keep the scene looking natural while making your edits.
-
-**Part 2:**  Set the white object again in various lighting conditions and take a photo of it using the below instructions for Apple or Android phones, <b>adjusting the white balance live before taking the photo</b>. Try to get the white object as close to white as possible while still keeping the scene looking natural. Pay attention to the surroundings -- do they look too cold/warm? Once the photo is taken, use either the Lightroom app or the VSCO app to make final post-processing adjustments to get an evenly processed photo. Do you find that it is easier to get a photo close to the correct color of the object by adjusting the white balance live while taking the photo, or adjusting it after?
+**Part 1:**  Find something that is white (e.g., a plate, piece of paper, etc). Set the white object object in various lighting conditions (natural indirect light from a window, overhead light, lamp light, outside in the shade) using the below instructions for Apple or Android phones, <b>adjusting the white balance live before taking the photo</b>. Try to get the white object as close to white as possible while still keeping the scene looking natural. Pay attention to the surroundings while you make the live adjustments-- do they look too cold/warm?
 
 ## Apple phones:
 In the Lightroom app:<br>
@@ -33,5 +31,19 @@ You can use the instructions for Lightroom above or you can opt to explore the s
 You may be able to control this setting directly in your camera by tapping on your Control icon and looking for a WB icon. If a slider comes up, you can drag it back and forth to find the appropriate temperature for the image. Some Android cameras will require you to go into a mode called something like Pro mode, advanced mode, or manual mode to access the WB or white balance controls.
 
 If your phone brings up various set categories of white balance (e.g., a cloud to represent cloudy days and shade, a sun to represent sunny days, etc), you can tap through them to see if any of them come close. Choose the one that is the closest approximation to the white balance of the image you want and you can adjust it further when post-processing the image after you have taken it. 
+
+**Part 2:**  Take a photo of the white object in the same various lighting conditions (natural indirect light from a window, overhead light, lamp light, outside in the shade) and take a photo of it using the default camera on your phone this time <b>without</b> doing any white balance adjustments while taking the photo. Note how the color of the white object shifts from actual white to take on the color tone of the light it is in. Using the VSCO or Lightroom app, post-process the photo afterwards using White Balance and any other settings you find you need to correct and finish the photo. Try to keep the scene looking natural while making your edits.
+
+To access the White Balance adjustments in the VSCO app, see the Post-Processing activity for instructions. To access White Balance instructions in Lightroom, see below: 
+
+1. **Tap** on the blue icon that looks like a photo with a plus sign on it in the lower right corner to access your main camera photo roll and choose a photo to process. This will open the photo in editing mode. 
+2. Scroll across the adjustment options along the bottom of the screen and tap on the one called **Color**, which includes **White Balance** (as well as Vibrance and Saturation). 
+3. If you have a white or neutral item/area in the photo, you can tap on the **eyedropper tool** to point to this area. This will bring up a **circle that you can drag** over the white/neutral area of the photo and the app will automatically adjust the white balance accordingly. 
+3. Alternatively, you can use the **Temp** slider to manually adjust the light temperature, with additional adjustments to **Tint** if needed. 
+4. When satisfied with your image, **tap** on the **checkmark** in the upper right corner, which will add it to your Lightroom album. 
+5. To export the processed image to your camera roll on your phone, **tap** on the photo again and **tap** on the **Share** icon (a square with an arrow pointing upwards). You can choose various ways to share the photo from here, including just quickly saving it to your camera roll. **“Export as..”** gives you the option to choose different file types, different photo sizes, image quality, and file naming options. 
+
+
+Do you find that it is easier to get a photo close to the correct color of the object by adjusting the white balance live while taking the photo, or adjusting it after?
 
 [NEXT STEP: Self-portraits](self-portraits.html){: .btn .btn-blue }
