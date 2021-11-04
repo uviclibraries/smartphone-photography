@@ -9,7 +9,6 @@ When properly exposed, you may find that some of your photos do not need any edi
 
 ## Adjustments:
 1. Open VSCO.
-<img src="images//photo-post-02.jpeg" style="float:right;width:263px;height:69px" alt=settings toolbar>
 2. **Tap** on the plus (**+**) button to add your new image to VSCO. 
 3. **Tap** to **select the image** and then **tap Edit** at the bottom of the screen. 
 4. **Tap** on the **little sliders icon** on the bottom left. 
