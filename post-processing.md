@@ -8,7 +8,7 @@ parent: Workshop Activities
 When properly exposed, you may find that some of your photos do not need any editing or post-processing, but many will still benefit from a few final touches before sharing them with the world. This activity will take you through the various adjustments (e.g., Exposure, Contrast,  Sharpen, etc.) to practice their effect on an image, as well as some of the preset filters. Even if you move on to other apps (and even for editing photos on a computer) these skills will be transferable. A note of caution: many of these adjustments, when taken too far, can actually damage the final quality of the image. Sharpening, for example. Small adjustments of sharpening can be highly beneficial to the crispness of a photo, but if turned up too high, this adjustment can create distortions and artifacts in the image. This damage may not be noticeable until the image is viewed on a larger screen or printed at full size. However,  edits in VSCO are not applied to your original photographs and are saved to a new copy. If you haven’t already, download and install the [VSCO app](https://vsco.co/download) from your app store.
 
 ## Adjustments:
-1. Open VSCO.
+1. Open VSCO. (Note:  You can also do adjustments using the Lightroom app but they sometimes use different terms, so for the sake of simplicity we will stick to one app for this activity.)
 2. **Tap** on the plus (**+**) button to add your new image to VSCO. 
 3. **Tap** to **select the image** and then **tap Edit** at the bottom of the screen. 
 4. **Tap** on the **little sliders icon** on the bottom left. 
@@ -21,10 +21,10 @@ When properly exposed, you may find that some of your photos do not need any edi
 
 ## Presets:
 <img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets settings">
-1. In VSCO, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.
+1. In VSCO, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.  
 2. To access these, instead of going into the adjustment tools, you would go through the **Presets menu**, on the bottom left of the screen, which looks like a polaroid photo.
 3. Each preset has a name with a letter and number. When you tap on one to select it, there is a slider that appears. **Double-tap** to bring up a full **slider** and **drag** to select the strength of the preset. **Tap** the **checkmark** to accept the changes, or the **X** to **cancel**. You can go into the adjustment tools to make additional changes before exporting. 
-4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll** or **Gallery is active** and then **tap Save**.
+4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll** or **Gallery is active** and then **tap Save**. (Note: Lightroom also has multiple presets located in Edit mode, but there isn't the option to adjust their strength.)
 
 ## Adjustments Explained: 
 Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials](https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials)
