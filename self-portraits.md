@@ -22,7 +22,8 @@ Selfies are fun, but you can use what you’ve learned about lighting and the li
 - Position your face in more than one spot on the screen, plus vertical vs landscape. How does this change the shape due to barrel distortion? Bonus step later: Try adjusting the barrel distortion using instructions from the bonus activity: Fixing Barrel Distortion (located below:first blue button)
 - Go outside and get close with plants or architecture.
 - Try setting the timer and stepping back to get more of yourself in the frame.
-- Bonus inspiration to take it to another level:[Examples](https://www.myclickmagazine.com/selfies-from-above/){:target="_blank"}
+- Try practicing by taking photos of other people instead of selfies.
+- Bonus inspiration to take it to another level:   [Example project at this link](https://www.myclickmagazine.com/selfies-from-above/){:target="_blank"}
 
 
 [Bonus Take Home Activity 1: Fixing Barrel Distortion](barrel-distortion.html){: .btn .btn-blue }<br>
