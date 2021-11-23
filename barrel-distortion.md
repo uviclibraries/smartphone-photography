@@ -6,7 +6,6 @@ parent: Workshop Activities
 ---
 # Bonus Take Home Activity: Fixing Barrel Distortion 
 Barrel distortion is mostly obvious when taking photos of objects with straight lines. This activity will guide you through the tools in VSCO to correct that distortion. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  
-<img src="images//photo-barrel-01.jpeg" style="float:right;width:302px;height:60px" alt="studio mode toolbar">
 1. Take a photo of something tall with straight lines. This can be a frame, bookshelf, doorway, or building. 
 2. <img src="images//photo-barrel-03.png" style="float:right;width:263px;height:69px" alt="edit slider icon"> Open VSCO. Tap on the plus (+) sign in the top right corner to bring up your camera roll and add your new image to VSCO. Tap to select the image and then tap Edit at the bottom of the screen. 
 3. <img src="images//photo-barrel-04.png" style="float:right;width:263px;height:110px" alt="crop and skew editing menu"> Tap to select the image and then tap Edit at the bottom of the screen. Tap on the little sliders icon on the bottom left. Tap on the Adjust icon.
