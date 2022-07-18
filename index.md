@@ -17,7 +17,7 @@ Smartphone photography focuses on using your mobile device to take beautiful pic
 Participants by the end of this workshop will be able to perform at a basic level:
 
 1. Set focus and exposure manually in a smartphone camera app
-2. Follow basic guidelines to improve composition and lighting
+2. Follow basic guidelines to improve composition and lighting including moving around the subject and rule of thirds
 3. Use a smartphone app for taking and post-processing photos
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
