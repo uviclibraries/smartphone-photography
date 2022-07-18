@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Self-Portraits
+title: 5-Self-Portraits
 nav_order: 7
 parent: Workshop Activities
 ---
