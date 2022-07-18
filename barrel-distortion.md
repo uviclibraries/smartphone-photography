@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Barrel Distortion
+title: Barrel Distortion
 nav_order: 8
 parent: Workshop Activities
 ---
