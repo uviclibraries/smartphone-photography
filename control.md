@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Camera App Settings
+title: 1-Camera App Settings
 nav_order: 3
 parent: Workshop Activities
 ---
