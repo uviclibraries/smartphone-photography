@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-White Balance
+title: 4-White Balance
 nav_order: 6
 parent: Workshop Activities
 ---
