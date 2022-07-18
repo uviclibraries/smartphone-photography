@@ -7,6 +7,9 @@ parent: Workshop Activities
 # Take Control of your Camera Settings
 One of the best ways to learn photography is to get yourself out of Auto mode. Since your camera sensor is only guessing based on limited information, and often guesses wrong, it can be a better practice to turn these auto modes off while you are practicing, and only turn them on when you intend to use them for a particular photo. 
 
+If you did not watch this pre-workshop video, and would like more informmation about how to set focus and exposure, please watch this excellent [7-minute tutorial](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"}(10 min)<br> Note this is about Iphones but the concepts apply to all types of smartphones.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Apple iPhone:
 **Preserve Settings:**
   1. Tap on Settings
