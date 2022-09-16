@@ -14,11 +14,7 @@ Smartphone Photography Take Info Home Sheet
 - [RNI Films](https://reallyniceimages.com/store.html){:target="_blank"} (Apple only)
 - [Snapseed](https://snapseed.online/){:target="_blank"} 
 - [VSCOcam](https://vsco.co/){:target="_blank"}
-## If you missed the pre-workshop orientation videos:
-- Basics of composition: [“Take better mobile photos using the rule of thirds”](https://www.youtube.com/watch?v=5MjiHl3PHqM){:target="_blank"}
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5MjiHl3PHqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [How to set focus and exposure](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"} (this is about iPhones but the concepts apply to all types of smartphones)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Additional photography videos and info:
 - [An overview of pro mode on Android phones](https://www.youtube.com/watch?v=DJuQ5Fc7TG0){:target="_blank"} 
@@ -32,6 +28,12 @@ Smartphone Photography Take Info Home Sheet
 - [Pro tips for improving your black and white photos](https://youtu.be/XPp6JGClOcE){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPp6JGClOcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to capture motion and sports photography with your iPhone](https://www.creativelive.com/class/how-to-capture-motion-with-your-iphone-7-or-7-plus-red-bull-photographer-michael-clark)
+- 
+## If you missed the pre-workshop orientation videos:
+- Basics of composition: [“Take better mobile photos using the rule of thirds”](https://www.youtube.com/watch?v=5MjiHl3PHqM){:target="_blank"}
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/5MjiHl3PHqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [How to set focus and exposure](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"} (this is about iPhones but the concepts apply to all types of smartphones)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Key Terms:
 <img src="images//photo-more-01.jpeg" style="float:right;width:400px;height:800px" alt=Reference guide manual photography>
