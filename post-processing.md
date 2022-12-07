@@ -11,7 +11,8 @@ When properly exposed, you may find that some of your photos do not need any edi
 1. Open VSCO. (Note:  You can also do adjustments using the Lightroom app but they sometimes use different terms, so for the sake of simplicity we will stick to one app for this activity.)
 2. **Tap** on the circled plus (**+**) button at the top of the screen to add your new image to VSCO. If you do not see this button, you may be in another function of VSCO and can tap the uncircled plus a the bottom of the screen and then tap the circled plus button at the top. 
 3. **Tap** to **select the image** and then **tap Continue** at the bottom of the screen. Your photo will be added to your VSCO collection. 
-4. **Tap** on the photo that has been added to the collectoin, and then **tap** on the **little sliders icon** that says "Edit" on the bottom. 
+4. **Tap** on the photo that has been added to the collection, and then **tap** on the **little sliders icon** that says "Edit" on the bottom 
+    - _depending on your app version, this icon may be named **Tools**._ 
 <img src="images//photo-post-04.jpeg" style="float:right;width:252px;height:109px" alt=studio mode toolbar>
 5. **Tap** on the **sliders icon** again. In the Adjustments menu, there are many options for fine-tuning your image. The options can get overwhelming. In general, the post-processing changes you want to familiarize yourself with the most are **Exposure, Contrast, Adjust** (See the Barrel Distortion activity for more details on the Adjust tool), and **White Balance**. 
 <img src="images//photo-post-05.jpeg" style="float:right;width:252px;height:100px" alt=studio mode toolbar>
