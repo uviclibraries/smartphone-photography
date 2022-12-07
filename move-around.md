@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 # Move Around and Switch It Up
-<img src="images//photo-move-01.jpeg" style="float:right;width:201.6px;height:270.72px;" alt=photo examples><img src="images//photo-move-01.jpeg" style="float:right;width:201.6px;height:270.72px;" alt=photo examples> 
+<img src="images//photo-move-01.jpeg" style="float:right;width:201.6px;" alt=photo examples><img src="images//photo-move-02.jpeg" style="float:right;width:201.6px;" alt=photo examples> 
 We tend to get stuck in one or two angles when it comes to taking photos. This exercise is to break you out of that to see what a change in perspective can do for a photo.
 
 If you didn't watch the Basics of composition pre-workshop video, and would like additional information about how to take better mobile photos using the rule of thirds, check it out this excellent 7-minute tutorial video by Gordon Laing:<br>
