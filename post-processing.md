@@ -17,7 +17,9 @@ When properly exposed, you may find that some of your photos do not need any edi
 <img src="images//photo-post-05.jpeg" style="float:right;width:252px;height:100px" alt=studio mode toolbar>
 6. Most of the tools are controlled using **sliders**. Once you are happy with the levels, you can tap the checkmark to accept. If you want to cancel the changes, you can **tap** the **X** to go back to the menu.
 7. Once you have made an adjustment and moved on to another tool, you can still go back and make changes to previous tools. 
-8. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll and Draft**. This will add a copy in your Camera Roll as well as a Draft coppy in your VSCO collection that you can go back and edit.
+<img src="images//photo-post-06b.jpg" style="float:right;width:250px;" alt=studio mode toolbar>
+8. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save is active** and then **tap Save**. This will add a copy in your Camera Roll as well as a Draft copy in your VSCO collection that you can go back and edit.
+
 
 ## Presets:
 <img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets settings">
@@ -27,7 +29,7 @@ When properly exposed, you may find that some of your photos do not need any edi
 4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll and Draft**. This will add a copy in your Camera Roll as well as a Draft coppy in your VSCO collection that you can go back and edit. (Note: Lightroom also has multiple presets located in Edit mode, but there isn't the option to adjust their strength.)
 
 ## Adjustments Explained: 
-Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials](https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials)
+Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials](https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials){:target="_blank"}
 
 **Exposure:** This tool will allow you to increase or decrease the exposure of an image after it has been taken.<br>
 **Contrast:** This tool increases or decreases the amount of contrast there is between the light areas and dark areas of an image. High contrast images can look bold, but also if pushed too far can result in a lack of nuance, and details that should be soft may end up looking harsh and rough. On the flip side, a lack of contrast can result in flat images.<br> 
