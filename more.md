@@ -32,8 +32,8 @@ Smartphone Photography Take Info Home Sheet
 ## If you missed the pre-workshop orientation videos:
 - Basics of composition: [“Take better mobile photos using the rule of thirds”](https://www.youtube.com/watch?v=5MjiHl3PHqM){:target="_blank"}
  <iframe width="560" height="315" src="https://www.youtube.com/embed/5MjiHl3PHqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [How to set focus and exposure](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"} (this is about iPhones but the concepts apply to all types of smartphones)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- [How to set focus and exposure](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"} (this is about iPhones but the concepts apply to all types of smartphones)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Key Terms:
 <img src="images//photo-more-01.jpeg" style="float:right;width:400px;height:800px" alt=Reference guide manual photography>
