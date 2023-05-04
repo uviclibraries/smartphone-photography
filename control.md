@@ -7,26 +7,17 @@ parent: Workshop Activities
 # Take Control of your Camera Settings
 One of the best ways to learn photography is to get yourself out of Auto mode. Since your camera sensor is only guessing based on limited information, and often guesses wrong, it can be a better practice to turn these auto modes off while you are practicing, and only turn them on when you intend to use them for a particular photo. 
 
-<!--If you did not watch this pre-workshop video, and would like more information about how to set focus and exposure, please watch this excellent [7-minute tutorial](https://www.youtube.com/watch?v=hXYaWoO6q04){:target="_blank"}(10 min)<br> Note this is about Iphones but the concepts apply to all types of smartphones.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Apple iPhone:
 **Preserve Settings:**
   1. Tap on Settings
   2. Scroll down to Camera and tap to open
   3. Tap on Preserve Settings and turn off Camera Mode and Filter, turn on Live Photo. Tap on Camera to go back to the Camera menu.
-  4. Turn on Grid, and turn off Auto HDR.
+  4. Turn on Grid.
 
 **Flash:**
   1. Open your default Camera app
   2. Tap the flash (lightning bolt) icon in the top left corner and tap Off. 
-
-**HDR:**
-  1. In your default Camera app, tap HDR at the top
-  <img src="images//photo-control-01.png" style="float:right" alt=HDR settings> 
-  2. Tap Off (Note: if you don’t see “HDR” at the top of the camera app, you need to go to your home screen and then **Settings -> Camera -> Auto HDR** and then turn it off).
-
-
 
 **Live Photos:**
   1. In your Camera app, tap the Live icon (circles in the centre top) if there is no line crossed through it.
