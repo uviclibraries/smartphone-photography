@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Mini Home Studio
-nav_order: 9
-parent: Workshop Activities
+nav_order: 2
+parent: Bonus Activities
 ---
 # Bonus Take Home activity: Mini Home Studio
 <img src="images//photo-studio-01.jpeg" style="float:right;width:200px;height:260px" alt=home studio setup>
