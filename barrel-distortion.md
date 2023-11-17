@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Barrel Distortion
-nav_order: 8
-parent: Workshop Activities
+nav_order: 1
+parent: Bonus Activities
 ---
+
 # Bonus Take Home Activity: Fixing Barrel Distortion 
  <img src="images//photo-barrel-07.jpg" style="float:right;width:263px;" alt="example image, stacks of books and signboard distorted">
  <img src="images//photo-barrel-06.jpg" style="float:right;width:263px;" alt="example image, stacks of books and signboard corrected">
