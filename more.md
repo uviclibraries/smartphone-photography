@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Bonus Take Home Tips
-nav_order: 10
-parent: Workshop Activities
+nav_order: 3
+parent: Bonus Activities
 ---
 # Bonus Take Home Tips: Apps list, More videos and Key terms
 Smartphone Photography Take Info Home Sheet
