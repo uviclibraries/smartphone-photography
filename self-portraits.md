@@ -22,7 +22,7 @@ Selfies are fun, but you can use what you’ve learned about lighting and the li
 - Position your face in more than one spot on the screen, plus vertical vs landscape. How does this change the shape due to barrel distortion? Bonus step later: Try adjusting the barrel distortion using instructions from the bonus activity: **Fixing Barrel Distortion** (linked below:first blue button)
 - Go outside and get close with plants or architecture.
 - Try setting the timer and stepping back to get more of yourself in the frame.
-- Try practicing by taking photos of other people instead of selfies.
+- Try practicing by taking photos of other people instead of selfies. If you have a smartphone with multiple lenses, what impact do the different lenses have on the photos? You might see that zoom lenses will blur out a distant background and have less distortion on someone's face.
 - Bonus inspiration to take your self portraits to another level:   [Click here to see the example project at this link](https://www.myclickmagazine.com/selfies-from-above/){:target="_blank"}
 
 
