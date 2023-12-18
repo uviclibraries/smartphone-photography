@@ -12,7 +12,7 @@ One of the best ways to learn photography is to get yourself out of Auto mode. S
 **Preserve Settings:**
   1. Tap on Settings
   2. Scroll down to Camera and tap to open
-  3. Tap on Preserve Settings and turn off Camera Mode. Turn on Macro Control (this will stop the camera from automatically bouncing between lenses whenever it guesses you are close to an object and might want to shoot in Macro Mode with the wide angle lens -- you can instead manually switch to the wide angle lens yourself for this). Turn the Live Photo toggle to on (this will give you a Live button in your camera so you can choose when you want to shoot a Live motion photo vs a still photo). Tap on Camera to go back to the Camera menu.
+  3. Tap on Preserve Settings and turn off Camera Mode. Turn on Macro Control (this will stop the camera from automatically bouncing between lenses whenever it guesses you are close to an object and might want to shoot in Macro Mode with the wide angle lens -- you can instead manually switch to the wide angle lens yourself for this - the reason to use the wide angle lens for super close up shots is that it can allow for much closer focus that the other lenses). Turn the Live Photo toggle to on (this will give you a Live button in your camera so you can choose when you want to shoot a Live motion photo vs a still photo). Tap on Camera to go back to the Camera menu.
   4. Turn on Grid.
 
 **Flash:**
