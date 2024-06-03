@@ -12,15 +12,17 @@ One of the best ways to learn photography is to get yourself out of Auto mode. S
 **Preserve Settings:**
   1. Tap on Settings
   2. Scroll down to Camera and tap to open
-  3. Tap on Preserve Settings and turn off Camera Mode. Turn on Macro Control (this will stop the camera from automatically bouncing between lenses whenever it guesses you are close to an object and might want to shoot in Macro Mode with the wide angle lens -- you can instead manually switch to the wide angle lens yourself for this - the reason to use the wide angle lens for super close up shots is that it can allow for much closer focus that the other lenses). Turn the Live Photo toggle to on (this will give you a Live button in your camera so you can choose when you want to shoot a Live motion photo vs a still photo). Tap on Camera to go back to the Camera menu.
-  4. Turn on Grid.
+  3. Tap on Preserve Settings and turn off Camera Mode. Turn on Macro Control (this will stop the camera from automatically bouncing between lenses whenever it guesses you are close to an object and might want to shoot in Macro Mode with the wide angle lens -- you can instead manually switch to the wide angle lens yourself for this - the reason to use the wide angle lens for super close up shots is that it can allow for much closer focus that the other lenses).
+  4. Turn the Live Photo toggle to on (this will give you a Live button in your camera so you can choose when you want to shoot a Live motion photo vs a still photo).
+  5. Tap on Camera to go back to the Camera menu.
+  6. Turn on Grid.
 
 **Flash:**
   1. Open your default Camera app
-  2. Tap the flash (lightning bolt) icon in the top left corner and tap Off. The on-camera flash is not very good and it's best to only turn it on manually when you need it for a particular photo, rather than having it on "auto" for the sensor to decide when to set it off.
+  2. Look at the flash (lightning bolt) icon in the top left corner. You want it to stay off (showing a circle with a line through it). The on-camera flash is not very good and it's best to only turn it on manually when you need it for a particular photo, rather than having it left on auto for the sensor to decide when to set it off.
 
 **Live Photos:**
-  1. In your Camera app, tap the Live icon (circles in the centre top) if there is no line crossed through it. This will turn Live off until you want to turn it on intentionally. 
+  1. In your Camera app, tap the Live icon (circles with dotted lines around it in the right top corner) so there is a line crossed through it. This will turn Live off until you want to turn it on intentionally. Note: the Live mini videos function can get in the way of your composition practice, take up a lot of extra storage space on your phone due to the video, and capture images at a lower resolution than you might want for printing if you manage to get that winning lighting and composition you really wanted. If you really enjoy this feature, you can always toggle it on while you are not practicing, and then toggle it off during photography practice time.
 
 ## Android Phones:
 (These tools and settings may vary from model to model, so you may need to consult your manufacturer's manual if these instructions do not work for you. In some phones, you may need to look for a “Pro” mode to find some controls.)
