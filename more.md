@@ -25,7 +25,7 @@ Smartphone Photography Take Info Home Sheet
  <iframe width="560" height="315" src="https://www.youtube.com/embed/fTz4Nhgm_SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Ideas for taking your low light photos to the next level](https://www.youtube.com/watch?v=l9hfE3R9_bc){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9hfE3R9_bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Pro tips for improving your black and white photos (note: this video combines advice that is meant for both digital and film photography so some may not apply to smartphones, and contains some brief nudity)](https://youtu.be/XPp6JGClOcE){:target="_blank"} 
+- [Pro tips for improving your black and white photos](https://youtu.be/XPp6JGClOcE){:target="_blank"}  (note: this video combines advice that is meant for both digital and film photography so some parts may not apply to smartphones, and contains some brief nudity)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPp6JGClOcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to capture motion and sports photography with your iPhone](https://www.creativelive.com/class/how-to-capture-motion-with-your-iphone-7-or-7-plus-red-bull-photographer-michael-clark)
 - 
