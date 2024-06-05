@@ -14,7 +14,7 @@ Smartphone Photography Take Info Home Sheet
 - [RNI Films](https://reallyniceimages.com/store.html){:target="_blank"} (Apple only) - Photo editing app with film emulation presets
 - [Open Camera](https://opencamera.sourceforge.io/){:target="_blank"} (Android only) - Open source app with some added controls.
 - [Polarr](https://www.polarr.co/){:target="_blank"} Photo editor with filters. (Contains some AI tools)
-- [NOMO Cam Android Version](https://play.google.com/store/apps/details%3Fid%3Dcom.blink.academy.nomopro%26hl%3Den_CA&ved=2ahUKEwi2s42jwcWGAxW4HjQIHaN7CfMQFnoECAcQAQ&usg=AOvVaw2tDNHo-ydBxl4RKJYWSjpq){:target="_blank"} [NOMO Cam Apple Version](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649&ved=2ahUKEwi2s42jwcWGAxW4HjQIHaN7CfMQFnoECAgQAQ&usg=AOvVaw3oJxqfFc7q2XbwoG13Whue){:target="_blank"} -  A fun vintage, disposable, and instant camera emulator app 
+- [NOMO Cam Android Version](https://play.google.com/store/apps/details?id=com.blink.academy.nomopro&hl=en_CA){:target="_blank"} OR [NOMO Cam Apple Version](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649&ved=2ahUKEwi2s42jwcWGAxW4HjQIHaN7CfMQFnoECAgQAQ&usg=AOvVaw3oJxqfFc7q2XbwoG13Whue){:target="_blank"} -  A fun vintage, disposable, and instant camera emulator app 
 
 
 
