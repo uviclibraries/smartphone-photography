@@ -13,7 +13,7 @@ This workshop is primarily hands-on practice with your smartphone camera in orde
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXYaWoO6q04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 - Download and install the [VSCO app on your smartphone](https://vsco.co/){:target="_blank"} (5 min)
-- Download and install the Adobe Lightroom: Photo Editor app from either the Google Play store or Apple App Store (free version) (5 min)
+- Download and install the Adobe Lightroom: Photo Editor app / Lightroon Photo & Video Editor app from either the Google Play store or Apple App Store (free version) (5 min)
 - [Pre-workshop Preparation Quiz](https://forms.gle/14KkgM9NUmgG6C5E6){: .btn .btn-purple }{:target="_blank"}
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
