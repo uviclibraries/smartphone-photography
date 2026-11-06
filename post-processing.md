@@ -9,24 +9,24 @@ When properly exposed, you may find that some of your photos do not need any edi
 
 ## Adjustments:
 1. Open VSCO. (Note:  You can also do adjustments using the Lightroom app but they sometimes use different terms, so for the sake of simplicity we will stick to one app for this activity.)
-2. **Tap** on the circled plus (**+**) button at the top of the screen to add your new image to VSCO. If you do not see this button, you may be in another function of VSCO and can tap the uncircled plus a the bottom of the screen and then tap the circled plus button at the top. 
+2. Make sure you are in the Studio section of the app and if not, tap Studio  tab at the bottom. **Tap** on the circled plus (**+**) button at the bottom right of the screen to import your new image to VSCO. 
 3. **Tap** to **select the image** and then **tap Continue** at the bottom of the screen. Your photo will be added to your VSCO collection. 
-4. **Tap** on the photo that has been added to the collection, and then **tap** on the **little sliders icon** that says "Edit" on the bottom (depending on your app version, this icon may be named **Tools**). 
+4. In the menu that pops up,**Tap** on Import  and then select you want and then tap the checkmark at the top right of the screen. Once the photo that has been added to the collection, make sure it is the only one selected and then **tap** on the **little sliders icon** that says "Edit Image" on the bottom (depending on your app version, this icon may be named **Tools**). 
 <img src="images//photo-post-04.jpeg" style="float:right;width:252px;height:109px" alt=studio mode toolbar>
 5. **Tap** on the **sliders icon** again. In the tools menu, there are many options for fine-tuning your image. The options can get overwhelming. In general, the post-processing changes you want to familiarize yourself with the most are **Exposure, Contrast, Adjust** (See the Barrel Distortion activity for more details on the Adjust tool), and **White Balance**. 
 <img src="images//photo-post-05.jpeg" style="float:right;width:252px;height:100px" alt=studio mode toolbar>
 6. Most of the tools are controlled using **sliders**. Once you are happy with the levels, you can tap the checkmark to accept. If you want to cancel the changes, you can **tap** the **X** to go back to the menu.
 7. Once you have made an adjustment and moved on to another tool, you can still go back and make changes to previous tools. 
 <img src="images//photo-post-06b.jpg" style="float:right;width:250px;" alt=studio mode toolbar>
-8. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll and Draft** (if you are using an Android device, this may just say **Save** and have a **Save** button). This will add a copy in your Camera Roll as well as a Draft copy in your VSCO collection that you can go back and edit.
+8. Once you are happy with your photo, **tap** on **the export arrow** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll** (if you are using an Android device, this may just say **Save** and have a **Save** button). This will add a copy in your Camera Roll.
 
 
 ## Presets:
 <img src="images//photo-post-08.png" style="width:313px;height:156px" alt="presets settings">
-1. In VSCO, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.  
+1. In VSCO, the app comes with a handful of presets, which are a group of multiple adjustments saved together and named so that they just require one tap to apply.  The locked presets are reserved for membership accounts.
 2. To access these, instead of going into the adjustment tools, you would go through the **Presets menu**, on the bottom left of the screen, which looks like a polaroid photo.
 3. Each preset has a name with a letter and number. When you tap on one to select it, there is a slider that appears. **Double-tap** to bring up a full **slider** and **drag** to select the strength of the preset. **Tap** the **checkmark** to accept the changes, or the **X** to **cancel**. You can go into the adjustment tools to make additional changes before exporting. 
-4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll and Draft** (if you are using an Android device, this may just say **Save** and have a **Save** button). This will add a copy in your Camera Roll as well as a Draft coppy in your VSCO collection that you can go back and edit. (Note: Lightroom also has multiple presets located in Edit mode, but there isn't the option to adjust their strength.)
+4. Once you are happy with your photo, **tap** on **Next** in the upper right corner. Make sure **Save to Camera Roll is active** and then **tap Save to Camera Roll and Draft** (if you are using an Android device, this may just say **Save** and have a **Save** button). This will add a copy in your Camera Roll as well as a Draft copy in your VSCO collection that you can go back and edit. (Note: Lightroom also has multiple presets located in Edit mode, but there isn't the option to adjust their strength.)
 
 ## Tools/Adjustments Explained: 
 Below is a short summary of each adjustment, but you can read a more thorough tutorial and explanation of each adjustment tool here: [VSCO Tutorials](https://support.vsco.co/hc/en-us/sections/4407298775181-Tutorials){:target="_blank"}
